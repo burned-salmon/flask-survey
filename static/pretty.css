@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+main {
+    margin: 16px;
+}
+
+header {
+    background-color: pink;
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    padding: 1em 0;
+    margin-bottom: 1em;
+}
+
+footer {
+    background-color: pink;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    margin-top: 2em;
+}
